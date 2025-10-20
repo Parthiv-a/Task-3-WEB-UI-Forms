@@ -16,8 +16,7 @@ tsconfig.json
 screenshots/
 README.md
 
-markdown
-Copy code
+
 
 ## How to Run
 Install dependencies:
